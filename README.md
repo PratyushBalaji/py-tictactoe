@@ -24,5 +24,9 @@ As well as a section at the bottom which acts as a to do list and stuff I learnt
 Also, the winCondition[] array was inspired by the recipe json file in Minecraft where the pattern is shown in []. Instead of a pattern, I have given the coordinates.
 
 
+So far, I'm pretty happy with the result. Will work on it soon but for now, install and enjoy!
+.
+.
+.
 
 Disclaimer : I call lists arrays as I started off programming with HTML, CSS, JS. I know they are lists and are technically different, but it means the same to me.
