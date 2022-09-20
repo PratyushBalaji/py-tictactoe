@@ -87,8 +87,8 @@ What I can do :
 
 New concepts used : 
 1) 2d array. Makes life so much easier with accessing (no need of if statements for line1, line2, line3) and overwriting.
-   Makes life so much easier for checking win condition (no need of writing individual if statements per win condition, an array of 8 numbers works)
-   ↪ I think the implementation of the winCondition array is ingenious. 8 simple numbers to be read in pairs with 1 single if statement is awesome.
+   Makes life so much easier for checking win condition (no need of writing individual if statements per win condition, an array of 6 numbers works)
+   ↪ I think the implementation of the winCondition array is ingenious. 6 simple numbers to be read in pairs with 1 single if statement is awesome.
    ↪ Also allows for custom win patterns. Simply add new or delete existing win conditions
    ↪ This technique was inspired by the .json file used for minecraft recipes. Specifically the "pattern:[]" part of it
 """
